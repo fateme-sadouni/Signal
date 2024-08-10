@@ -1,8 +1,8 @@
-Here's a brief overview and initial analysis of structures:
+📈📉**Here's a brief overview and initial analysis of structures:**
 
 
-**fgid:** Food group ID
-**directional-statement:** Recommendations or guidelines for each food group.
+**fgid:** Food group ID  
+**directional-statement:** Recommendations or guidelines for each food group.  
 | fgid | directional-statement|
 |----------|----------|
 | vf | Eat at least one dark green and one orange vegetable each day. | 
@@ -10,16 +10,16 @@ Here's a brief overview and initial analysis of structures:
 | vf | Have vegetables and fruit more often than juice |
 | gr | Make at least half of your grain products whole grain each day |
 | gr | Choose grain products that are lower in fat, sugar, or salt |
+<br> 
 
-
-
-
-**fgid:** Food group ID
-**foodgroup:** Name of the food group
-**fgcat_id:** Food group category ID
+  
+ 
+**fgid:** Food group ID  
+**foodgroup:** Name of the food group  
+**fgcat_id:** Food group category ID  
 **fgcat:** Description of the food group category
 
-| fgid | foodgroup | fgcat_id |fgcat_id |
+| fgid | foodgroup | fgcat_id |fgcat |
 |----------|----------|----------|----------|
 | vf | Vegetables and Fruit | 0 | Non dark green or orange vegetable |
 | vf | Vegetables and Fruit | 1 | Dark green vegetable |
@@ -28,31 +28,32 @@ Here's a brief overview and initial analysis of structures:
 | gr | Grains | 3 | Whole grain |
 
 
+    
+**fgid:** Food group ID  
+**fgcat_id:** Food group category ID  
+**srvg_sz:** Serving size description  
+**food:** Name of the food item  
+
+| fgid | fgcat_id | srvg_sz |food |
+|----------|----------|----------|----------|
+| vf | 1 | 125 mL, ½ cup, 6 spears | Asparagus |
+| vf | 1 | 125 mL, ½ cup | Beans, green |
+| vf | 1 | 125 mL, ½ cup cooked  |Bok choy/Chinese cabbage (Choi sum) |
+| vf | 1 | 125 mL, ½ cup | Broccoli |
+| vf | 1 | 125 mL, ½ cup | Brussels sprouts |
 
 
-**fgid:** Food group ID
-**fgcat_id:** Food group category ID
-**srvg_sz:** Serving size description
-**food:** Name of the food item
+<br>
+    
 
-| fgid | fgcat_id | srvg_sz | food |Column 3 |
-|----------|----------|----------|----------|----------|
-| vf | 1 | 125 mL, ½ cup, 6 spears |Asparagus |
-| vf | 1 | 125 mL, ½ cup |Beans, green |
-| vf | 1 | 125 mL, ½ cup cooked |Bok choy/Chinese cabbage (Choi sum)|
-| vf | 1 | 125 mL, ½ cup |Broccoli |
-| vf | 1 | 125 mL, ½ cup, 4 sprouts |Brussels sprouts |
+📝📊Creating a food guide plan based on the provided data involves a few steps, including integrating the directional statements with specific food items and serving sizes to create practical dietary recommendations. Here’s how you can prepare a food guide plan using the data:  
+Step 1: Map Directional Statements to Food Groups and Categories  
+Step 2: Match Foods to Their Categories  
+Step 3: Develop Meal Plans Based on Guidelines  
 
 
 
-📝📈📉📊Creating a food guide plan based on the provided data involves a few steps, including integrating the directional statements with specific food items and serving sizes to create practical dietary recommendations. Here’s how you can prepare a food guide plan using the data:
-Step 1: Map Directional Statements to Food Groups and Categories
-Step 2: Match Foods to Their Categories
-Step 3: Develop Meal Plans Based on Guidelines
-
-
-
-Example of a 1-Day Meal Plan:
+🍽**Example of a 1-Day Meal Plan:** <br> 
 •	Breakfast:
    Oatmeal (½ cup cooked) with a handful of blueberries and a glass of water.
    
