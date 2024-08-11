@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/87c7ccb0-58ce-49c9-9d49-25ab1265026c" alt="lesson4" width="200"/> Creating a food guide plan based on the provided data involves a few steps, including integrating the directional statements with specific food items and serving sizes to create practical dietary recommendations. Here’s how you can prepare a food guide plan using the data:    
+
+<img src="pic1.gif" alt="Alt text" width="200"/> Creating a food guide plan based on the provided data involves a few steps, including integrating the directional statements with specific food items and serving sizes to create practical dietary recommendations. Here’s how you can prepare a food guide plan using the data:    
  
 Step 1: Map Directional Statements to Food Groups and Categories    <br>
 Step 2: Match Foods to Their Categories    <br>
@@ -21,7 +22,9 @@ Step 3: Develop Meal Plans Based on Guidelines    <br>
 This plan ensures that daily nutritional guidelines are met, with emphasis on whole foods and balanced portions as per the data provided
 <br>
 <br>
-<img src="https://github.com/user-attachments/assets/8685d729-0198-4bba-89a9-f63eb2a14581" alt="Description" width="300" />
+
+<img src="pic2.gif" alt="Alt text" width="300"/>
+<br>  
 
 **Here's a brief overview and initial analysis of structures:**
 <br>
