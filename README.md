@@ -1,6 +1,16 @@
-# Project Title
+# Canada Food Guide
 
-Provide a brief description of your project here.
+Provide a brief description of your project
+<br>
+First step:
+Create the basic structure using HTML entities. Using CSS styling properties, style the components with CSS properties like display, color, font size, margin, padding, and border.<br>
+[Canada Food Guide - HTML](https://fateme-sadouni.github.io/Food-Guide/)
+
+
+
+
+
+
 
 ## Project Images
 
