@@ -1,3 +1,11 @@
+**Canada Foof Guide**
+
+**Introduction**  
+
+Setup:
+
+run npm start to start development server
+
 **Quick Overview**
 
 create a directory called canada-food-guide inside the current folder.
@@ -21,3 +29,6 @@ canada-food-guide
     ├── logo.svg
     └── serviceWorker.js
     └── setupTests.js
+
+
+    
