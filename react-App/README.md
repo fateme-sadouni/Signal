@@ -40,7 +40,10 @@ To Do
  Calculate Tax and Discounts <br>
  Store invoices in Firebase DB <br>
 <br>
+ 
+---
 
+  
 
 React Development | Version 2 | Demo
 ---
@@ -48,7 +51,11 @@ React Development | Version 2 | Demo
 
 ![v2](CanadaFoodGuideV2.gif)  
 
+ 
+---
 
+
+  
 React Development  | Version 3 | Demo
 ---
 <br>  
