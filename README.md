@@ -1,13 +1,13 @@
 #  <img src="myplate-brand--labelled.png" alt="Alt text" width="150"/> Canada Food Guide
-
- This app should allow users to input their age and gender, then generate a personalized daily food plan based on these inputs. Here's how it should work: <br>
+<br>
+ This app should allow users to input their age and gender, then generate a personalized daily food plan based on these inputs. Here's how it should work: <br><br>
 **User Input:** The user enters their age and selects their gender. <br>
 **Data Processing:** The app uses the provided data and generates a daily food plan, suggesting specific foods and their serving sizes from different food groups (like fruits, vegetables, proteins, etc.).<br>
 **Output Display:** The app displays the personalized daily plan, showing the recommended foods and portion sizes for each meal. <br>
 This app aims to help users plan their meals in a healthy and balanced way according to dietary guidelines.
-
+<br><br>
 To design a React page that allows users to input their age and gender and outputs a daily food plan, we'll need to do the following steps:<br>
-8️⃣9️⃣ <br> <br>
+<br> <br>
 1️⃣  **Data Analysis and Preparation**<br>
 
 • Understand the Data: analyze the CSV files to understand the relationship between food groups, serving sizes, and other related data.<br>
@@ -43,9 +43,6 @@ To design a React page that allows users to input their age and gender and outpu
 
 
 
-<br>First step:
-Create the basic structure using HTML entities. Using CSS styling properties, style the components with CSS properties like display, color, font size, margin, padding, and border.<br>
-[Canada Food Guide - HTML](https://fateme-sadouni.github.io/Food-Guide/)
 
 
 
