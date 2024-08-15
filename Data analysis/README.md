@@ -1,36 +1,42 @@
+Data Analysis 
+------
+---
 
-<img src="pic1.gif" alt="Alt text" width="200"/> Creating a food guide plan based on the provided data involves a few steps, including integrating the directional statements with specific food items and serving sizes to create practical dietary recommendations. Here’s how you can prepare a food guide plan using the data:    
- 
-Step 1: Map Directional Statements to Food Groups and Categories    <br>
-Step 2: Match Foods to Their Categories    <br>
-Step 3: Develop Meal Plans Based on Guidelines    <br>
+
+<img src="pic1.gif" alt="Alt text" width="200"/> Creating a food guide plan based on the provided data involves a few steps, including integrating the directional statements with specific food items and serving sizes to create practical dietary recommendations. Here’s how you can prepare a food guide plan using the data:   
+
+Step 1: Understand the Data: analyze the provided CSV files to understand how the food groups, serving sizes, and other related data are structured.   <br>
+Step 2: Data Cleaning <br>
+Step 3: Mapping the Data: Map out how the food groups relate to different age groups and genders in terms of daily servings.   <br>
 
 
 🍽**Example of a 1-Day Meal Plan:** <br> 
-•	Breakfast:
-   Oatmeal (½ cup cooked) with a handful of blueberries and a glass of water.
+   Oatmeal (½ cup cooked) with a handful of blueberries and a glass of water.<br>
+   Whole grain sandwich with lean turkey, lettuce, and tomato. Side of carrot sticks (½ cup).<br>
+   Grilled salmon with ½ cup of steamed broccoli and ½ cup of quinoa.<br>
+   1 medium apple and a handful of almonds.<br>
    
-•	Lunch:
-   Whole grain sandwich with lean turkey, lettuce, and tomato. Side of carrot sticks (½ cup).
-   
-•	Dinner:
-   Grilled salmon with ½ cup of steamed broccoli and ½ cup of quinoa.
-   
-•	Snacks:
-   1 medium apple and a handful of almonds.
-   
-This plan ensures that daily nutritional guidelines are met, with emphasis on whole foods and balanced portions as per the data provided
+✅ This plan ensures that daily nutritional guidelines are met, with emphasis on whole foods and balanced portions as per the data provided
 <br>
 <br>
 
-<img src="pic2.gif" alt="Alt text" width="300"/>
+---  
+
+
+
+
+<img src="pic2.gif" alt="Alt text" width="400"/>
 <br>  
+
+
+
+
 
 **Here's a brief overview and initial analysis of structures:**
 <br>
 
+🔘**TABLE 1:** Directional Statements: Likely contains guidance or recommendations related to food groups or nutrition.<br><br>
 **fgid:** Food group ID  
-**directional-statement:** Recommendations or guidelines for each food group.  
 **vf**: Vegetables and Fruit  
 **gr**: Grains  
 **mi**: Milk and Alternatives  
@@ -50,7 +56,7 @@ This plan ensures that daily nutritional guidelines are met, with emphasis on wh
 
 <br> 
 
-  
+🔘**TABLE 2:** Appears to categorize various foods into groups, possibly relating to dietary guidelines. <br><br>
 **foodgroup:** Name of the food group  
 **fgcat_id:** Food group category ID  
 **fgcat:** Description of the food group category
@@ -67,10 +73,10 @@ This plan ensures that daily nutritional guidelines are met, with emphasis on wh
 | me | Meat and Alternatives | 7 | Meat Alternatives |
 | me | Meat and Alternatives | 8| Meat, fish, poultry and shellfish |
 
-
 <br>
       
-    
+🔘**TABLE 3:** outlines recommended servings for different food groups per day.  
+<br>
 **srvg_sz:** Serving size description   
 
 | fgid  | fgcat_id  | srvg_sz |Name of the food item  |
@@ -85,9 +91,10 @@ This plan ensures that daily nutritional guidelines are met, with emphasis on wh
 | mi | 6 | 4 samples like as(125 mL, ½ cup cooked ) |8 foods |
 | me | 7 | 5 samples like as(125 mL, ½ cup )| 7 foods |
 | me | 8 | 1 samples like as(125 mL, ½ cup) | 18 foods |
-
-
 <br>  
+
+🔘**TABLE4:**
+Nutritional Intake Analysis by Gender and Age Group: A Comprehensive Study of Food Group Consumption and Serving Patterns <br>
 
 | Gender | Age | vf |gr | mi | me |
 |----------|----------|----------|----------|----------|----------|
@@ -108,7 +115,23 @@ This plan ensures that daily nutritional guidelines are met, with emphasis on wh
 | Male | 51 to 70 | 7 | 7 | 3 | 3 |
 | Male | 71+ | 7| 7 | 3 | 3 |
 
+---
+<br> 
 
+<img src="analytics.gif" alt="Alt text" width="400"/> <br> <br>**The diagram illustrate the relationships between the tables mentioned above:** <br>
+
+The diagram illustrates the relationships between different tables related to food and demographic data. This analysis was conducted using Python. Here’s a breakdown of the relationships:
+
+- Food Groups are central to the diagram, showing their connection to various other entities.
+- Food Items are linked to Food Groups, indicating that each food item belongs to a specific food group.
+- Food Categories are associated with Food Items, categorizing these items based on broader criteria.
+- Directional Statements are connected to Food Groups, representing guidelines or recommendations associated with each food group.
+- Servings are linked to Food Groups, indicating the recommended number of servings for each group.
+- Genders and Age Groups are connected to Servings, showing that the recommended servings can vary depending on the gender and age group of individuals. 
+
+<br>
+
+<img src="data_relationships_graph.png" alt="Alt text" width="600"/>
 
 
 
