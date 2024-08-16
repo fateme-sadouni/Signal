@@ -5,9 +5,9 @@ Data Analysis
 
 <img src="pic1.gif" alt="Alt text" width="200"/> Creating a food guide plan based on the provided data involves a few steps, including integrating the directional statements with specific food items and serving sizes to create practical dietary recommendations. Here’s how you can prepare a food guide plan using the data:   
 
-Step 1: Understand the Data: analyze the provided CSV files to understand how the food groups, serving sizes, and other related data are structured.   <br>
-Step 2: Data Cleaning <br>
-Step 3: Mapping the Data: Map out how the food groups relate to different age groups and genders in terms of daily servings.   <br>
+- Step 1: Understand the Data: analyze the provided CSV files to understand how the food groups, serving sizes, and other related data are structured.   <br>
+- Step 2: Data Cleaning <br>
+- Step 3: Mapping the Data: Map out how the food groups relate to different age groups and genders in terms of daily servings.   <br>
 
 
 🍽**Example of a 1-Day Meal Plan:** <br> 
@@ -84,7 +84,7 @@ Step 3: Mapping the Data: Map out how the food groups relate to different age gr
 | vf | 0 | 21 samples like as(125 mL, ½ cup, 6 spears) | 50 foods  |
 | vf | 1 | 8 samples like as(125 mL, ½ cup )| 21 foods  |
 | vf | 2 | 2 samples like as(mL, ½ cup cooked ) | 5 foods |
-| gr | 1 | 1 samples like as(125 mL, ½ cup) | 1 foods|
+| gr | ‼️1 | 1 samples like as(125 mL, ½ cup) | 1 foods|
 | gr | 3 | 19 samples like as(125 mL, ½ cup) | 19 foods |
 | gr | 4 | 19 samples like as(125 mL, ½ cup, 6 spears) | 19 foods |
 | mi | 5 | 4 samples like as(125 mL, ½ cup) | 6 foods |
@@ -92,6 +92,7 @@ Step 3: Mapping the Data: Map out how the food groups relate to different age gr
 | me | 7 | 5 samples like as(125 mL, ½ cup )| 7 foods |
 | me | 8 | 1 samples like as(125 mL, ½ cup) | 18 foods |
 <br>  
+‼️fgcat_id of two vf & gr fgid is similar. <br> 
 
 🔘**TABLE4:**
 Nutritional Intake Analysis by Gender and Age Group: A Comprehensive Study of Food Group Consumption and Serving Patterns <br>
@@ -118,7 +119,7 @@ Nutritional Intake Analysis by Gender and Age Group: A Comprehensive Study of Fo
 ---
 <br> 
 
-<img src="analytics.gif" alt="Alt text" width="400"/> <br> <br>**The diagram illustrate the relationships between the tables mentioned above:** <br>
+<img src="analytics.gif" alt="Alt text" width="400"/> <br> <br>**Table relationship diagram** <br>
 
 The diagram illustrates the relationships between different tables related to food and demographic data. This analysis was conducted using Python. Here’s a breakdown of the relationships:
 
