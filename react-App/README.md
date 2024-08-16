@@ -64,13 +64,3 @@ Component-Based Design: The project was restructured into smaller, reusable Reac
 
 
 
-
-
-
-
-
-Installation
----
-
-    npm install
-    npm start
