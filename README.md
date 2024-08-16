@@ -1,4 +1,4 @@
- # <img src="myplate-brand--labelled.png" alt="Alt text" width="150"/> Canada Food Guide App 
+ # <img src="pic1.gif" alt="Alt text" width="200"/> Canada Food Guide App 
 ---  
 
 <br>   
@@ -21,8 +21,11 @@ live demo : http://194.146.123.54:3000/
 ![page1](FoofGuideApp.png)
 <br>  
 - **Personalized food plan**
-<br> 
+<br>
+<br>
+<p align="center">
 <img src="Nima_food_guide.png" alt="Alt text" width="400"/>
+</p>
 <br>
 
 ## Built With
