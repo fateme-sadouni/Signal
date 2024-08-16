@@ -25,9 +25,9 @@ React Development  | Version 1 | Demo
 
 **To Do**
 <br>
- - UI improvements <br>
- - Updated displayed information and adjusted random data<br>
- - Component-based architecture <br>
+ - [ ] UI improvements <br>
+ - [ ] Updated displayed information and adjusted random data<br>
+ - [ ] Component-based architecture <br>
 <br>
  
 ---
@@ -41,7 +41,7 @@ React Development | Version 2 | Demo
 
 **To Do**
 <br>
-- Component-based architecture <br>
+- [ ] Component-based architecture <br>
  
 ---
 
@@ -50,7 +50,7 @@ React Development  | Version 3
 ---
 <br>  
 
-Component-Based Design: The project was restructured into smaller, reusable React components, making the code easier to manage and extend.
+- [x] Component-Based Design: The project was restructured into smaller, reusable React components, making the code easier to manage and extend.
 
 
 
