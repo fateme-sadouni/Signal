@@ -1,5 +1,5 @@
-Canada's Food Guide App
----
+## Canada's Food Guide react
+
 <br>
 
 The project initially started with a basic implementation using HTML and CSS to create a static design. After that, React was integrated to add the required features and functionalities. 
@@ -23,8 +23,8 @@ React Development  | Version 1 | Demo
 ![v1](CanadaFoodGuideV1.gif)  
 
 
-To Do
----
+**To Do**
+<br>
  - UI improvements <br>
  - Updated displayed information and adjusted random data<br>
  - Component-based architecture <br>
@@ -39,8 +39,8 @@ React Development | Version 2 | Demo
 
 ![v2](CanadaFoodGuideV2.gif)  
 
-To Do
----
+**To Do**
+<br>
 - Component-based architecture <br>
  
 ---
