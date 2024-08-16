@@ -1,10 +1,7 @@
- # <img src="pic1.gif" alt="Alt text" width="200"/> Canada Food Guide App 
----  
-
+ # <img src="pic1.gif" alt="Alt text" width="100"/> Canada Food Guide App  
 <br>   
 
 ## Introduction
-<br>
 
  This app should allow users to input their age and gender, then generate a personalized daily food plan based on these inputs. Here's how it should work: <br>
  
