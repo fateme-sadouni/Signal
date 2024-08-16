@@ -14,9 +14,9 @@
 This app aims to help users plan their meals in a healthy and balanced way according to dietary guidelines.
 <br><br>
 ## Demo  
-Here is a working live demo : http://194.146.123.54:3000/
+live demo : http://194.146.123.54:3000/
 
-## Project Images
+##
 
 ![page1](https://github.com/user-attachments/assets/847452dd-073d-4f4e-8609-8fad5b8f3853)  
 
