@@ -23,8 +23,9 @@ Here is a working live demo : http://194.146.123.54:3000/
 <br><br>
 
 ## Built With
-React.js <br>
+React - Javascript Library for creating UI <br>
 Styled Components <br>
+React Hooks
 
 
 Getting Started
