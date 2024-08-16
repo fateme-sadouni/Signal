@@ -37,3 +37,11 @@ Getting Started
     npm install  
     npm start
 
+<br>
+<p align="center">
+<img src="04538778091697.5c9b155f498d6.gif" alt="center text" width="200"/> 
+</p>  
+
+<p align="center">
+<code>Healthy meals start with planning</code>
+</p> 
