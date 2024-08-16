@@ -1,9 +1,7 @@
-Data Analysis 
-------
----
+# Data Analysis 
 
 
-<img src="pic1.gif" alt="Alt text" width="200"/> Creating a food guide plan based on the provided data involves a few steps, including integrating the directional statements with specific food items and serving sizes to create practical dietary recommendations. Here’s how you can prepare a food guide plan using the data:   
+<img src="myplate.png" alt="Alt text" width="150"/> Creating a food guide plan based on the provided data involves a few steps, including integrating the directional statements with specific food items and serving sizes to create practical dietary recommendations. Here’s how you can prepare a food guide plan using the data:   
 
 - Step 1: Understand the Data: analyze the provided CSV files to understand how the food groups, serving sizes, and other related data are structured.   <br>
 - Step 2: Data Cleaning <br>
@@ -24,16 +22,8 @@ Data Analysis
 
 
 
+ ## Overview and initial analysis:  <img src="pic2.gif" alt="Alt text" width="200"/>   
 
-<img src="pic2.gif" alt="Alt text" width="400"/>
-<br>  
-
-
-
-
-
-**Here's a brief overview and initial analysis of structures:**
-<br>
 
 🔘**TABLE 1:** Directional Statements: Likely contains guidance or recommendations related to food groups or nutrition.<br><br>
 **fgid:** Food group ID  
@@ -117,9 +107,11 @@ Nutritional Intake Analysis by Gender and Age Group: A Comprehensive Study of Fo
 | Male | 71+ | 7| 7 | 3 | 3 |
 
 ---
-<br> 
+<br>  
 
-<img src="analytics.gif" alt="Alt text" width="400"/> <br> <br>**Table relationship diagram** <br>
+## Table relationships diagram  
+
+<img src="analytics.gif" alt="Alt text" width="400"/> <br> <br> <br>
 
 The diagram illustrates the relationships between different tables related to food and demographic data. This analysis was conducted using Python. Here’s a breakdown of the relationships:
 
