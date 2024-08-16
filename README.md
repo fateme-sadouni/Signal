@@ -1,4 +1,4 @@
- # <img src="myplate-brand--labelled.png" alt="Alt text" width="150"/> Canada Food Guide  
+ # <img src="myplate-brand--labelled.png" alt="Alt text" width="150"/> Canada Food Guide App 
 ---  
 
 <br>   
@@ -13,8 +13,25 @@
 - **Output Display:** The app displays the personalized daily plan, showing the recommended foods and portion sizes for each meal. <br>
 This app aims to help users plan their meals in a healthy and balanced way according to dietary guidelines.
 <br><br>
-
+## Demo  
+Here is a working live demo : https://crypto-hunter.netlify.app/
 
 ## Project Images
 
-![page1](https://github.com/user-attachments/assets/847452dd-073d-4f4e-8609-8fad5b8f3853)
+![page1](https://github.com/user-attachments/assets/847452dd-073d-4f4e-8609-8fad5b8f3853)  
+
+
+<br><br>
+
+## Built With
+React.js <br>
+Styled Components <br>
+
+
+Getting Started
+---
+
+    npm install  
+    
+    npm start
+
