@@ -22,28 +22,16 @@ React Development  | Version 1 | Demo
 
 ![v1](CanadaFoodGuideV1.gif)  
 
-Built With
----
-
-React - Javascript Library for creating UI <br>
-React Hooks<br>
-Redux - State Management<br>
-R💥edux Persistent - Save the application state locally or remotely<br>
-Accessibility Features, ARIA - User Experience improved<br>
-Sass - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.<br>
-<br>
 
 To Do
 ---
- Finish parsing data into Preview Modal <br>
- Currency Picker <br>
- Calculate Tax and Discounts <br>
- Store invoices in Firebase DB <br>
+ - UI improvements <br>
+ - Updated displayed information and adjusted random data<br>
+ - Component-based architecture <br>
 <br>
  
 ---
 
-  
 
 React Development | Version 2 | Demo
 ---
@@ -51,12 +39,14 @@ React Development | Version 2 | Demo
 
 ![v2](CanadaFoodGuideV2.gif)  
 
+To Do
+---
+- Component-based architecture <br>
  
 ---
 
-
   
-React Development  | Version 3 | Demo
+React Development  | Version 3 
 ---
 <br>  
 
