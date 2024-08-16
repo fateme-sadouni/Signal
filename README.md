@@ -17,10 +17,13 @@ This app aims to help users plan their meals in a healthy and balanced way accor
 live demo : http://194.146.123.54:3000/
 
 ##
-
-![page1](https://github.com/user-attachments/assets/847452dd-073d-4f4e-8609-8fad5b8f3853)  
-
-<br><br>
+ 
+![page1](FoofGuideApp.png)
+<br>  
+- **Personalized food plan**
+<br> 
+<img src="Nima_food_guide.png" alt="Alt text" width="400"/>
+<br>
 
 ## Built With
 React - Javascript Library for creating UI <br>
@@ -32,6 +35,5 @@ Getting Started
 ---
 
     npm install  
-    
     npm start
 
