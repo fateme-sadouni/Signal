@@ -27,7 +27,7 @@ live demo : http://194.146.123.54:3000/
 
 ## Built With
 React - Javascript Library for creating UI <br>
-Styled Components <br>
+Tailwind CSS <br>
 React Hooks
 
 
